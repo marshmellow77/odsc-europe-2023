@@ -4,9 +4,10 @@ Repository for [ODSC Europe 2023 Talk](https://odsc.com/speakers/implementing-ge
 
 The talk will consist of three parts:
 
-1. An overview of the latest generative AI models and how they work
-2. Best practices and techniques for training and deploying generative AI models
-3. Ethical considerations in generative AI
+1. What is Generative AI & how does it work?
+2. Challenges with Large Language Models (LLMs)
+3. Demo: Document Chatbot
+4. Bias in Generative AI
 
 
 In this repository you will find the slides for the presentation, as well as some code samples that will be shown in the tutorial.
